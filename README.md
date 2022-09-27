@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leotoueg
 - 👀 I’m interested in learning random things
-- 🌱 I’m currently learning about blockchain and front-end 
+- 🌱 I’m currently learning about blockchain
 - 💞️ I’m looking to collaborate on random projects!
 - 📫 How to reach me: toueg.leo@gmail.com
 
